@@ -30,5 +30,7 @@ Aplikasi *Travel App* dibuat menggunakan *React Native (Expo + TypeScript)* untu
 - Komponen reusable DestinationCard menampilkan gambar, negara, harga, dan rating
 - Data Passing antar halaman (Home → Detail)
 
+## Mahasiswa 
+- Asep Mardianto 20230040201
 
 
